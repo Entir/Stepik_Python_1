@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0430649-397c-4934-b2f7-4381c461eb4e" name="Changes" comment="lesson 6-8 and 13-16">
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-13" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-14" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-14" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-15" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-16" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-16" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-5" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-6" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-7" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson_2/2-2-8" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-8" afterDir="false" />
+    <list default="true" id="b0430649-397c-4934-b2f7-4381c461eb4e" name="Changes" comment="lesson 2-3-(5-7)">
+      <change afterPath="$PROJECT_DIR$/Lesson_2-4/2-4-6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2-4/2-4-7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2-4/2-4-8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2-2/2-2-5" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2-2/2-2-6" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2-2/2-2-6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Stepik_Python_1\pythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704386792502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 2-3-(5-7)">
+      <option name="closed" value="true" />
+      <created>1704387175570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704387175570</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +122,7 @@
     <MESSAGE value="new project" />
     <MESSAGE value="first lesson 2-2-5" />
     <MESSAGE value="lesson 6-8 and 13-16" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6-8 and 13-16" />
+    <MESSAGE value="lesson 2-3-(5-7)" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 2-3-(5-7)" />
   </component>
 </project>
