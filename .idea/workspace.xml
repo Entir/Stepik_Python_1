@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0430649-397c-4934-b2f7-4381c461eb4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/2-2-5" afterDir="false" />
+    <list default="true" id="b0430649-397c-4934-b2f7-4381c461eb4e" name="Changes" comment="first lesson 2-2-5">
+      <change afterPath="$PROJECT_DIR$/Lesson_2/2-2-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/2-2-6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/2-2-7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2/2-2-8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Entir"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="493b0ffd-2dab-48c5-aa0b-50cbc2cf1304" />
+        <option name="url" value="https://github.com/Entir/Stepik_Python_1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -53,6 +65,23 @@
       <option name="presentableId" value="Default" />
       <updated>1704385575443</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project">
+      <option name="closed" value="true" />
+      <created>1704386179598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704386179598</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first lesson 2-2-5">
+      <option name="closed" value="true" />
+      <created>1704386240858</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704386240858</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +94,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project" />
+    <MESSAGE value="first lesson 2-2-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="first lesson 2-2-5" />
   </component>
 </project>
